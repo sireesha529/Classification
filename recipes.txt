@@ -6,3 +6,4 @@ kheer
 noodles
 
 veg corn soup
+chicken tikka
