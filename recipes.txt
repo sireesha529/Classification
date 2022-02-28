@@ -8,4 +8,10 @@ noodles
 veg corn soup
 chicken tikka
 
+pasta
+
+pizza
+
+beans
+
 Thanks.
